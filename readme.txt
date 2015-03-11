@@ -22,7 +22,6 @@ First, download, install, and activate POWr Facebook Feed. Then drop the widget 
 <br>
 = <a href='http://www.powr.io/tutorials/how-to-add-facebook-feed-plugin-to-your-wordpress-site'>2 MINUTE INSTALL</a> =
 <br>
-
 = Free Features =
 * Automatically display images, videos, and text from multiple Facebook accounts in a single feed.
 * Adjust the priority for different pages to display your favorite content.
@@ -36,8 +35,10 @@ First, download, install, and activate POWr Facebook Feed. Then drop the widget 
 * Eliminate all POWr logos and watermarks
 * Up to 5 Accounts - add and display up to 5 different Facebook accounts.
 * Faster Updates - faster update times keep your content fresh.
+* Enable plugin analytics to measure visitors and page views
 * Receive premium POWr support
 * Support the development of other great plugins
+
 
 == Installation ==
 Download, install, and activate POWr Facebook Feed.
