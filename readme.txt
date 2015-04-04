@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Combine and display multiple Facebook pages in a single feed!
 
 == Description ==
-Combine and display multiple Facebook pages in a single feed!
+[youtube https://youtu.be/KhhvCg1D_YE] Combine and display multiple Facebook pages in a single feed!
 <br>
 <br>
 POWr Facebook Feed is a free cloud-based plugin you can edit in your live web page.  Create a POWr account to access the entire <a href='https://www.powr.io/plugins'>plugin library</a>.
